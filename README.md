@@ -1,5 +1,7 @@
 # arte50
 
+![alt text](https://github.com/leeseomin/arte50/blob/main/alley-354451cpu3.png)
+
 
 ### Dependency install on ubuntu 20.04 
 
